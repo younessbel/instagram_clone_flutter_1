@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869155390774",
+    "project_id": "chatappp-7fb42",
+    "storage_bucket": "chatappp-7fb42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869155390774:android:f83362b81a55ad990c5f97",
+        "android_client_info": {
+          "package_name": "com.example.instagrem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAeNxedeybjP2N1ItT5F_U9LDVuwhOlSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
